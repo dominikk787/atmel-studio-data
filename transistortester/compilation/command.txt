@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils\make.exe -C "C:\Users\programowanie\Documents\Atmel Studio\7.0\transistortester\compilation" -f "Makefile" all

@@ -1,0 +1,380 @@
+
+arduinotest.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000024a  00000000  00000000  00000094  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         00000002  00800060  0000024a  000002de  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          0000000f  00800062  00800062  000002e0  2**0
+                  ALLOC
+  3 .comment      00000030  00000000  00000000  000002e0  2**0
+                  CONTENTS, READONLY
+  4 .note.gnu.avr.deviceinfo 0000003c  00000000  00000000  00000310  2**2
+                  CONTENTS, READONLY
+  5 .debug_aranges 00000410  00000000  00000000  0000034c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  6 .debug_info   0000a236  00000000  00000000  0000075c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_abbrev 00000a36  00000000  00000000  0000a992  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_line   000031df  00000000  00000000  0000b3c8  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_frame  000015c4  00000000  00000000  0000e5a8  2**2
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_str    000015c6  00000000  00000000  0000fb6c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_loc    0000f93b  00000000  00000000  00011132  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_ranges 00001090  00000000  00000000  00020a6d  2**0
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	09 c0       	rjmp	.+18     	; 0x14 <__ctors_end>
+   2:	22 c0       	rjmp	.+68     	; 0x48 <__vector_1>
+   4:	20 c0       	rjmp	.+64     	; 0x46 <__bad_interrupt>
+   6:	6c c0       	rjmp	.+216    	; 0xe0 <__vector_3>
+   8:	1e c0       	rjmp	.+60     	; 0x46 <__bad_interrupt>
+   a:	1d c0       	rjmp	.+58     	; 0x46 <__bad_interrupt>
+   c:	a9 c0       	rjmp	.+338    	; 0x160 <__vector_6>
+   e:	1b c0       	rjmp	.+54     	; 0x46 <__bad_interrupt>
+  10:	42 c0       	rjmp	.+132    	; 0x96 <__vector_8>
+  12:	19 c0       	rjmp	.+50     	; 0x46 <__bad_interrupt>
+
+00000014 <__ctors_end>:
+  14:	11 24       	eor	r1, r1
+  16:	1f be       	out	0x3f, r1	; 63
+  18:	cf e9       	ldi	r28, 0x9F	; 159
+  1a:	cd bf       	out	0x3d, r28	; 61
+
+0000001c <__do_copy_data>:
+  1c:	10 e0       	ldi	r17, 0x00	; 0
+  1e:	a0 e6       	ldi	r26, 0x60	; 96
+  20:	b0 e0       	ldi	r27, 0x00	; 0
+  22:	ea e4       	ldi	r30, 0x4A	; 74
+  24:	f2 e0       	ldi	r31, 0x02	; 2
+  26:	02 c0       	rjmp	.+4      	; 0x2c <__do_copy_data+0x10>
+  28:	05 90       	lpm	r0, Z+
+  2a:	0d 92       	st	X+, r0
+  2c:	a2 36       	cpi	r26, 0x62	; 98
+  2e:	b1 07       	cpc	r27, r17
+  30:	d9 f7       	brne	.-10     	; 0x28 <__do_copy_data+0xc>
+
+00000032 <__do_clear_bss>:
+  32:	20 e0       	ldi	r18, 0x00	; 0
+  34:	a2 e6       	ldi	r26, 0x62	; 98
+  36:	b0 e0       	ldi	r27, 0x00	; 0
+  38:	01 c0       	rjmp	.+2      	; 0x3c <.do_clear_bss_start>
+
+0000003a <.do_clear_bss_loop>:
+  3a:	1d 92       	st	X+, r1
+
+0000003c <.do_clear_bss_start>:
+  3c:	a1 37       	cpi	r26, 0x71	; 113
+  3e:	b2 07       	cpc	r27, r18
+  40:	e1 f7       	brne	.-8      	; 0x3a <.do_clear_bss_loop>
+  42:	8c d0       	rcall	.+280    	; 0x15c <main>
+  44:	00 c1       	rjmp	.+512    	; 0x246 <_exit>
+
+00000046 <__bad_interrupt>:
+  46:	dc cf       	rjmp	.-72     	; 0x0 <__vectors>
+
+00000048 <__vector_1>:
+    // Set timer0 couter to zero
+    TCNT0 = 0;
+    // Clear Timer0 overflow counter
+    timer0_overflow = 0;
+    // Turn on global interrupts
+    sei();
+  48:	1f 92       	push	r1
+  4a:	0f 92       	push	r0
+  4c:	0f b6       	in	r0, 0x3f	; 63
+  4e:	0f 92       	push	r0
+  50:	11 24       	eor	r1, r1
+  52:	2f 93       	push	r18
+  54:	3f 93       	push	r19
+  56:	4f 93       	push	r20
+  58:	5f 93       	push	r21
+  5a:	6f 93       	push	r22
+  5c:	7f 93       	push	r23
+  5e:	8f 93       	push	r24
+  60:	9f 93       	push	r25
+  62:	af 93       	push	r26
+  64:	bf 93       	push	r27
+  66:	ef 93       	push	r30
+  68:	ff 93       	push	r31
+  6a:	e0 91 6f 00 	lds	r30, 0x006F	; 0x80006f <_ZL7intFunc>
+  6e:	f0 91 70 00 	lds	r31, 0x0070	; 0x800070 <_ZL7intFunc+0x1>
+  72:	09 95       	icall
+  74:	ff 91       	pop	r31
+  76:	ef 91       	pop	r30
+  78:	bf 91       	pop	r27
+  7a:	af 91       	pop	r26
+  7c:	9f 91       	pop	r25
+  7e:	8f 91       	pop	r24
+  80:	7f 91       	pop	r23
+  82:	6f 91       	pop	r22
+  84:	5f 91       	pop	r21
+  86:	4f 91       	pop	r20
+  88:	3f 91       	pop	r19
+  8a:	2f 91       	pop	r18
+  8c:	0f 90       	pop	r0
+  8e:	0f be       	out	0x3f, r0	; 63
+  90:	0f 90       	pop	r0
+  92:	1f 90       	pop	r1
+  94:	18 95       	reti
+
+00000096 <__vector_8>:
+  96:	1f 92       	push	r1
+  98:	0f 92       	push	r0
+  9a:	0f b6       	in	r0, 0x3f	; 63
+  9c:	0f 92       	push	r0
+  9e:	11 24       	eor	r1, r1
+  a0:	8f 93       	push	r24
+  a2:	9f 93       	push	r25
+  a4:	af 93       	push	r26
+  a6:	bf 93       	push	r27
+  a8:	80 91 6b 00 	lds	r24, 0x006B	; 0x80006b <wdt_interrupt_counter>
+  ac:	90 91 6c 00 	lds	r25, 0x006C	; 0x80006c <wdt_interrupt_counter+0x1>
+  b0:	a0 91 6d 00 	lds	r26, 0x006D	; 0x80006d <wdt_interrupt_counter+0x2>
+  b4:	b0 91 6e 00 	lds	r27, 0x006E	; 0x80006e <wdt_interrupt_counter+0x3>
+  b8:	01 96       	adiw	r24, 0x01	; 1
+  ba:	a1 1d       	adc	r26, r1
+  bc:	b1 1d       	adc	r27, r1
+  be:	80 93 6b 00 	sts	0x006B, r24	; 0x80006b <wdt_interrupt_counter>
+  c2:	90 93 6c 00 	sts	0x006C, r25	; 0x80006c <wdt_interrupt_counter+0x1>
+  c6:	a0 93 6d 00 	sts	0x006D, r26	; 0x80006d <wdt_interrupt_counter+0x2>
+  ca:	b0 93 6e 00 	sts	0x006E, r27	; 0x80006e <wdt_interrupt_counter+0x3>
+  ce:	bf 91       	pop	r27
+  d0:	af 91       	pop	r26
+  d2:	9f 91       	pop	r25
+  d4:	8f 91       	pop	r24
+  d6:	0f 90       	pop	r0
+  d8:	0f be       	out	0x3f, r0	; 63
+  da:	0f 90       	pop	r0
+  dc:	1f 90       	pop	r1
+  de:	18 95       	reti
+
+000000e0 <__vector_3>:
+  e0:	1f 92       	push	r1
+  e2:	0f 92       	push	r0
+  e4:	0f b6       	in	r0, 0x3f	; 63
+  e6:	0f 92       	push	r0
+  e8:	11 24       	eor	r1, r1
+  ea:	8f 93       	push	r24
+  ec:	9f 93       	push	r25
+  ee:	af 93       	push	r26
+  f0:	bf 93       	push	r27
+  f2:	80 91 67 00 	lds	r24, 0x0067	; 0x800067 <timer0_overflow>
+  f6:	90 91 68 00 	lds	r25, 0x0068	; 0x800068 <timer0_overflow+0x1>
+  fa:	a0 91 69 00 	lds	r26, 0x0069	; 0x800069 <timer0_overflow+0x2>
+  fe:	b0 91 6a 00 	lds	r27, 0x006A	; 0x80006a <timer0_overflow+0x3>
+ 102:	01 96       	adiw	r24, 0x01	; 1
+ 104:	a1 1d       	adc	r26, r1
+ 106:	b1 1d       	adc	r27, r1
+ 108:	80 93 67 00 	sts	0x0067, r24	; 0x800067 <timer0_overflow>
+ 10c:	90 93 68 00 	sts	0x0068, r25	; 0x800068 <timer0_overflow+0x1>
+ 110:	a0 93 69 00 	sts	0x0069, r26	; 0x800069 <timer0_overflow+0x2>
+ 114:	b0 93 6a 00 	sts	0x006A, r27	; 0x80006a <timer0_overflow+0x3>
+ 118:	bf 91       	pop	r27
+ 11a:	af 91       	pop	r26
+ 11c:	9f 91       	pop	r25
+ 11e:	8f 91       	pop	r24
+ 120:	0f 90       	pop	r0
+ 122:	0f be       	out	0x3f, r0	; 63
+ 124:	0f 90       	pop	r0
+ 126:	1f 90       	pop	r1
+ 128:	18 95       	reti
+
+0000012a <init>:
+ 12a:	83 b7       	in	r24, 0x33	; 51
+ 12c:	82 60       	ori	r24, 0x02	; 2
+ 12e:	83 bf       	out	0x33, r24	; 51
+ 130:	8f b5       	in	r24, 0x2f	; 47
+ 132:	83 60       	ori	r24, 0x03	; 3
+ 134:	8f bd       	out	0x2f, r24	; 47
+ 136:	f8 94       	cli
+ 138:	a8 95       	wdr
+ 13a:	80 e4       	ldi	r24, 0x40	; 64
+ 13c:	81 bd       	out	0x21, r24	; 33
+ 13e:	78 94       	sei
+ 140:	13 be       	out	0x33, r1	; 51
+ 142:	83 b7       	in	r24, 0x33	; 51
+ 144:	82 60       	ori	r24, 0x02	; 2
+ 146:	83 bf       	out	0x33, r24	; 51
+ 148:	89 b7       	in	r24, 0x39	; 57
+ 14a:	82 60       	ori	r24, 0x02	; 2
+ 14c:	89 bf       	out	0x39, r24	; 57
+ 14e:	12 be       	out	0x32, r1	; 50
+ 150:	78 94       	sei
+ 152:	17 b8       	out	0x07, r1	; 7
+ 154:	86 b1       	in	r24, 0x06	; 6
+ 156:	82 68       	ori	r24, 0x82	; 130
+ 158:	86 b9       	out	0x06, r24	; 6
+ 15a:	08 95       	ret
+
+0000015c <main>:
+ 15c:	e6 df       	rcall	.-52     	; 0x12a <init>
+ 15e:	ff cf       	rjmp	.-2      	; 0x15e <main+0x2>
+
+00000160 <__vector_6>:
+  #endif
+}
+
+
+ISR(TIM0_COMPA_vect) 
+{  
+ 160:	1f 92       	push	r1
+ 162:	0f 92       	push	r0
+ 164:	0f b6       	in	r0, 0x3f	; 63
+ 166:	0f 92       	push	r0
+ 168:	11 24       	eor	r1, r1
+ 16a:	2f 93       	push	r18
+ 16c:	3f 93       	push	r19
+ 16e:	4f 93       	push	r20
+ 170:	5f 93       	push	r21
+ 172:	6f 93       	push	r22
+ 174:	7f 93       	push	r23
+ 176:	8f 93       	push	r24
+ 178:	9f 93       	push	r25
+ 17a:	af 93       	push	r26
+ 17c:	bf 93       	push	r27
+ 17e:	cf 93       	push	r28
+ 180:	df 93       	push	r29
+ 182:	1f 92       	push	r1
+ 184:	cd b7       	in	r28, 0x3d	; 61
+ 186:	dd 27       	eor	r29, r29
+  // Toggle the pin, most AVR can toggle an output pin by writing a 1 to the input 
+  // register bit for that pin.
+  PINB = _BV(CurrentTonePin);
+ 188:	20 91 60 00 	lds	r18, 0x0060	; 0x800060 <__data_start>
+ 18c:	81 e0       	ldi	r24, 0x01	; 1
+ 18e:	90 e0       	ldi	r25, 0x00	; 0
+ 190:	01 c0       	rjmp	.+2      	; 0x194 <__vector_6+0x34>
+ 192:	88 0f       	add	r24, r24
+ 194:	2a 95       	dec	r18
+ 196:	ea f7       	brpl	.-6      	; 0x192 <__vector_6+0x32>
+ 198:	86 bb       	out	0x16, r24	; 22
+  
+  // If we have played this tone for the requested duration, stop playing it.
+  if (CurrentToneDuration < CurrentToneMidpoint)
+ 19a:	80 91 62 00 	lds	r24, 0x0062	; 0x800062 <__data_end>
+ 19e:	40 91 63 00 	lds	r20, 0x0063	; 0x800063 <_ZL19CurrentToneDuration>
+ 1a2:	50 91 64 00 	lds	r21, 0x0064	; 0x800064 <_ZL19CurrentToneDuration+0x1>
+ 1a6:	60 91 65 00 	lds	r22, 0x0065	; 0x800065 <_ZL19CurrentToneDuration+0x2>
+ 1aa:	70 91 66 00 	lds	r23, 0x0066	; 0x800066 <_ZL19CurrentToneDuration+0x3>
+ 1ae:	90 e0       	ldi	r25, 0x00	; 0
+ 1b0:	a0 e0       	ldi	r26, 0x00	; 0
+ 1b2:	b0 e0       	ldi	r27, 0x00	; 0
+ 1b4:	48 17       	cp	r20, r24
+ 1b6:	59 07       	cpc	r21, r25
+ 1b8:	6a 07       	cpc	r22, r26
+ 1ba:	7b 07       	cpc	r23, r27
+ 1bc:	c0 f4       	brcc	.+48     	; 0x1ee <__vector_6+0x8e>
+ 1be:	8f ef       	ldi	r24, 0xFF	; 255
+ 1c0:	89 83       	std	Y+1, r24	; 0x01
+void noTone(uint8_t pin) 
+{
+  // Disable the interrupt
+  // Note we can leave the rest of the timer setup as is, turnOnPWM() will
+  // fix it for itself next time you analogWrite() if you need to.
+  TIMSK0 &= ~_BV(OCIE0A);
+ 1c2:	89 b7       	in	r24, 0x39	; 57
+ 1c4:	8b 7f       	andi	r24, 0xFB	; 251
+ 1c6:	89 bf       	out	0x39, r24	; 57
+  
+  // Pin goes back to input state  
+  pinMode(pin == 255 ? CurrentTonePin : pin, INPUT);
+ 1c8:	89 81       	ldd	r24, Y+1	; 0x01
+ 1ca:	8f 3f       	cpi	r24, 0xFF	; 255
+ 1cc:	c9 f1       	breq	.+114    	; 0x240 <__vector_6+0xe0>
+ 1ce:	29 81       	ldd	r18, Y+1	; 0x01
+
+void pinMode(uint8_t pin, uint8_t mode)
+{
+  // SAFEMODE prevents you from inserting a pin number out of range
+  #ifdef SAFEMODE
+    if(pin > 5)
+ 1d0:	26 30       	cpi	r18, 0x06	; 6
+ 1d2:	50 f4       	brcc	.+20     	; 0x1e8 <__vector_6+0x88>
+  if(mode == OUTPUT) // Pin as output
+    DDRB |= _BV(pin);
+      
+  else // Pin as input or input pullup
+  {
+    DDRB &= ~_BV(pin); // Set pin as input
+ 1d4:	37 b3       	in	r19, 0x17	; 23
+ 1d6:	81 e0       	ldi	r24, 0x01	; 1
+ 1d8:	90 e0       	ldi	r25, 0x00	; 0
+ 1da:	01 c0       	rjmp	.+2      	; 0x1de <__vector_6+0x7e>
+ 1dc:	88 0f       	add	r24, r24
+ 1de:	2a 95       	dec	r18
+ 1e0:	ea f7       	brpl	.-6      	; 0x1dc <__vector_6+0x7c>
+ 1e2:	80 95       	com	r24
+ 1e4:	83 23       	and	r24, r19
+ 1e6:	87 bb       	out	0x17, r24	; 23
+  // Pin goes back to input state  
+  pinMode(pin == 255 ? CurrentTonePin : pin, INPUT);
+  
+  // And make sure we will reset it to output state next time you call
+  // tone() by treating it as a new pin
+  CurrentTonePin = 255;  
+ 1e8:	8f ef       	ldi	r24, 0xFF	; 255
+ 1ea:	80 93 60 00 	sts	0x0060, r24	; 0x800060 <__data_start>
+  
+  // If we have played this tone for the requested duration, stop playing it.
+  if (CurrentToneDuration < CurrentToneMidpoint)
+    noTone(255); 
+  
+  CurrentToneDuration -= CurrentToneMidpoint;
+ 1ee:	20 91 62 00 	lds	r18, 0x0062	; 0x800062 <__data_end>
+ 1f2:	80 91 63 00 	lds	r24, 0x0063	; 0x800063 <_ZL19CurrentToneDuration>
+ 1f6:	90 91 64 00 	lds	r25, 0x0064	; 0x800064 <_ZL19CurrentToneDuration+0x1>
+ 1fa:	a0 91 65 00 	lds	r26, 0x0065	; 0x800065 <_ZL19CurrentToneDuration+0x2>
+ 1fe:	b0 91 66 00 	lds	r27, 0x0066	; 0x800066 <_ZL19CurrentToneDuration+0x3>
+ 202:	82 1b       	sub	r24, r18
+ 204:	91 09       	sbc	r25, r1
+ 206:	a1 09       	sbc	r26, r1
+ 208:	b1 09       	sbc	r27, r1
+ 20a:	80 93 63 00 	sts	0x0063, r24	; 0x800063 <_ZL19CurrentToneDuration>
+ 20e:	90 93 64 00 	sts	0x0064, r25	; 0x800064 <_ZL19CurrentToneDuration+0x1>
+ 212:	a0 93 65 00 	sts	0x0065, r26	; 0x800065 <_ZL19CurrentToneDuration+0x2>
+ 216:	b0 93 66 00 	sts	0x0066, r27	; 0x800066 <_ZL19CurrentToneDuration+0x3>
+  TCNT0 = 0; // Restart timer
+ 21a:	12 be       	out	0x32, r1	; 50
+}
+ 21c:	0f 90       	pop	r0
+ 21e:	df 91       	pop	r29
+ 220:	cf 91       	pop	r28
+ 222:	bf 91       	pop	r27
+ 224:	af 91       	pop	r26
+ 226:	9f 91       	pop	r25
+ 228:	8f 91       	pop	r24
+ 22a:	7f 91       	pop	r23
+ 22c:	6f 91       	pop	r22
+ 22e:	5f 91       	pop	r21
+ 230:	4f 91       	pop	r20
+ 232:	3f 91       	pop	r19
+ 234:	2f 91       	pop	r18
+ 236:	0f 90       	pop	r0
+ 238:	0f be       	out	0x3f, r0	; 63
+ 23a:	0f 90       	pop	r0
+ 23c:	1f 90       	pop	r1
+ 23e:	18 95       	reti
+  // Note we can leave the rest of the timer setup as is, turnOnPWM() will
+  // fix it for itself next time you analogWrite() if you need to.
+  TIMSK0 &= ~_BV(OCIE0A);
+  
+  // Pin goes back to input state  
+  pinMode(pin == 255 ? CurrentTonePin : pin, INPUT);
+ 240:	20 91 60 00 	lds	r18, 0x0060	; 0x800060 <__data_start>
+ 244:	c5 cf       	rjmp	.-118    	; 0x1d0 <__vector_6+0x70>
+
+00000246 <_exit>:
+ 246:	f8 94       	cli
+
+00000248 <__stop_program>:
+ 248:	ff cf       	rjmp	.-2      	; 0x248 <__stop_program>

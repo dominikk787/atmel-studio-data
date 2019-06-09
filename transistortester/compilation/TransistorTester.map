@@ -1,0 +1,1731 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                              ReadADC.o (__mulsi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                              function_menu.o (__udivmodqi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              RefVoltage.o (__udivmodhi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              lcd-routines.o (__divmodhi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              DisplayValue.o (__udivmodsi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              main.o (__divmodsi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              lcd-routines.o (__do_clear_bss)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              main.o (__umulhisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+                              main.o (__usmulhisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              main.o (__muluhisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                              ReadCapacity.o (__mulshisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+                              GetFrequency.o (__umulsidi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+                              GetFrequency.o (__udivdi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o) (__udivmod64)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                              lcd-routines.o (__prologue_saves__)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                              lcd-routines.o (__epilogue_restores__)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o) (__muldi3_6)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                              DisplayValue.o (__ultoa_ncheck)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                              i2lcd.o (utoa)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o) (__utoa_ncheck)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o) (strrev)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+                              lcd-routines.o (eeprom_read_byte)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+                              show_Resis_Cap.o (eeprom_read_word)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+                              main.o (eeprom_write_byte)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+                              main.o (eeprom_write_word)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o) (eeprom_read_blraw)
+
+Allocating common symbols
+Common symbol       size              file
+
+diode_sequence      0x1               main.o
+ext_freq            0x4               main.o
+display_time        0x2               main.o
+rotary              0x7               main.o
+lc_fx               0x4               sampling_lc.o
+resis680mi          0x2               main.o
+icon_yy             0x1               lcd-routines.o
+ref_mv_offs         0x2               main.o
+NumOfDiodes         0x1               main.o
+PartMode            0x1               main.o
+PartFound           0x1               main.o
+resis680pl          0x2               main.o
+tmpval              0x1               main.o
+last_text_column    0x1               lcd-routines.o
+adc_vcc_reference   0x2               main.o
+inductor_lpre       0x1               lcd-routines.o
+mess_count          0x1               main.o
+last_text_line      0x1               lcd-routines.o
+outval              0xa               main.o
+ADCconfig           0x6               main.o
+lc_cpartmp          0x2               sampling_lc.o
+pin_rpl             0x2               main.o
+ref_mv              0x2               main.o
+DC_Pwr_mode         0x1               main.o
+lcd_bit_mem         0x400             main.o
+tmpval2             0x1               main.o
+UnCalibrated        0x1               main.o
+pin_rmi             0x2               main.o
+WithReference       0x1               main.o
+_lcd_column         0x1               main.o
+_trans              0x2               main.o
+lc_qx               0x2               sampling_lc.o
+last_line_used      0x1               main.o
+_page               0x1               lcd-routines.o
+ntrans              0x10              main.o
+empty_count         0x1               main.o
+pin_combination     0x1               main.o
+ovcnt16             0x2               main.o
+cell_mv             0x6               lcd-routines.o
+ResistorChecked     0x3               main.o
+ResistorList        0x3               main.o
+ptrans              0x10              main.o
+pinchange_max       0x2               main.o
+pinchange_count     0x2               main.o
+adc_internal_reference
+                    0x2               main.o
+ResistorsFound      0x1               main.o
+rotary_switch_present
+                    0x1               main.o
+unfinished          0x1               main.o
+RHmultip            0x2               main.o
+cap                 0x14              main.o
+load_diff           0x2               main.o
+diodes              0x18              main.o
+inductor_lx         0x4               lcd-routines.o
+_xpos               0x1               lcd-routines.o
+lcd_text_line       0x1               main.o
+icon_xx             0x1               lcd-routines.o
+lc_lx               0x4               sampling_lc.o
+ResistorVal         0xc               main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD lcd_hw_4_bit.o
+LOAD lcd-routines.o
+LOAD i2lcd.o
+LOAD PinLayout.o
+LOAD RvalOut.o
+LOAD UfAusgabe.o
+LOAD DisplayValue.o
+LOAD lcd-draw.o
+LOAD swuart.o
+LOAD wait1000ms.o
+LOAD sleep_5ms.o
+LOAD ReadADC.o
+LOAD wait_for_key_ms.o
+LOAD RefVoltage.o
+LOAD get_log.o
+LOAD main.o
+LOAD Battery_check.o
+LOAD CheckPins.o
+LOAD GetResistance.o
+LOAD ChargePin10ms.o
+LOAD EntladePins.o
+LOAD ReadCapacity.o
+LOAD GetRLmultip.o
+LOAD Calibrate_UR.o
+LOAD show_Resis_Cap.o
+LOAD ReadInductance.o
+LOAD GetESR.o
+LOAD GetVloss.o
+LOAD GetFrequency.o
+LOAD function_menu.o
+LOAD message_key_released.o
+LOAD ReadBigCap.o
+LOAD CheckRotaryEncoder.o
+LOAD CalibrationCap.o
+LOAD ShowData.o
+LOAD CheckUJT.o
+LOAD EE_check_init.o
+LOAD samplingADC.o
+LOAD sampling_cap.o
+LOAD sampling_lc.o
+LOAD sampling_xtal.o
+START GROUP
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x7800
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc   0x00000068      0x128 samplingADC.o
+                0x00000068                samplingADC_freqgen_sck
+                0x00000068                samplingADC_freqgen
+                0x00000068                samplingADC
+                0x00000190                . = ALIGN (0x2)
+                0x00000190                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000190        0x0 linker stubs
+ *(.trampolines*)
+                0x00000190                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data  0x00000190        0x6 lcd-draw.o
+ .progmem.data  0x00000196      0x850 main.o
+                0x00000196                clear_msk
+                0x0000019e                set_msk
+                0x000001a6                bmp_inductor_data
+                0x000001b8                bmp_vakdiode
+                0x000001d8                bmp_three_data
+                0x000001df                bmp_two_data
+                0x000001e6                bmp_one_data
+                0x000001ed                bmp_pnp
+                0x000001f6                bmp_p_jfet
+                0x000001fd                bmp_p_d_mos
+                0x0000020f                bmp_n_d_mos
+                0x00000215                bmp_p_e_mos
+                0x0000021f                bmp_p_d_igbt
+                0x00000243                bmp_n_d_igbt
+                0x0000024f                bmp_p_e_igbt
+                0x00000267                PinRLRHADCtab
+                0x0000026d                HelpCalibration_str
+                0x000003ce                RHtab
+                0x000003e0                LogTab
+                0x00000446                bigfont
+                0x000006e6                font
+                0x000009e6                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000009e6                __ctors_start = .
+ *(.ctors)
+                0x000009e6                __ctors_end = .
+                0x000009e6                __dtors_start = .
+ *(.dtors)
+                0x000009e6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000009e6        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x000009e6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000009e6        0xc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000009f2       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000009f2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000a02        0x8 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000a0a        0x2 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000a0a                __vector_22
+                0x00000a0a                __vector_1
+                0x00000a0a                __vector_24
+                0x00000a0a                __bad_interrupt
+                0x00000a0a                __vector_6
+                0x00000a0a                __vector_3
+                0x00000a0a                __vector_23
+                0x00000a0a                __vector_25
+                0x00000a0a                __vector_17
+                0x00000a0a                __vector_19
+                0x00000a0a                __vector_4
+                0x00000a0a                __vector_9
+                0x00000a0a                __vector_2
+                0x00000a0a                __vector_15
+                0x00000a0a                __vector_8
+                0x00000a0a                __vector_14
+                0x00000a0a                __vector_18
+                0x00000a0a                __vector_20
+ .text          0x00000a0c       0x7c lcd_hw_4_bit.o
+                0x00000a0c                _lcd_hw_write
+ .text          0x00000a88      0x50c lcd-routines.o
+                0x00000a88                lcd_set_cursor
+                0x00000aa2                lcd_line1
+                0x00000aae                lcd_line2
+                0x00000aba                lcd_line3
+                0x00000ac6                lcd_line4
+                0x00000ad2                lcd_save_position
+                0x00000ae4                lcd_restore_position
+                0x00000af0                lcd_write_word
+                0x00000b04                lcd_command
+                0x00000b0c                lcd_clear
+                0x00000b34                lcd_fix_customchar
+                0x00000b36                reverse_byte
+                0x00000b56                lcd_set_pixels
+                0x00000cd0                lcd_big_icon
+                0x00000d28                lcd_update_icon_opt
+                0x00000d54                lcd_update_icon
+                0x00000d5a                lcd_data
+                0x00000d9e                lcd_testpin
+                0x00000da4                lcd_space
+                0x00000daa                lcd_spaces
+                0x00000dcc                lcd_clear_line
+                0x00000dd8                lcd_next_line
+                0x00000e1a                lcd_next_line_wait
+                0x00000e20                lcd_clear_line1
+                0x00000e28                lcd_clear_line2
+                0x00000e30                lcd_equal
+                0x00000e36                lcd_string
+                0x00000e4c                lcd_pgm_string
+                0x00000e68                lcd_fix_string
+                0x00000e86                lcd_pgm_bitmap
+                0x00000e9c                lcd_show_Cg
+                0x00000ecc                lcd_show_rds
+                0x00000ef4                lcd_refresh
+                0x00000f56                lcd_init
+ .text          0x00000f94       0x30 i2lcd.o
+                0x00000f94                i2lcd
+                0x00000faa                u2lcd
+                0x00000fba                i2lcd_space
+                0x00000fbe                u2lcd_space
+ .text          0x00000fc4       0xbc PinLayout.o
+                0x00000fc4                PinLayout
+                0x00001012                PinLayoutLine
+                0x0000106c                Rnum2pins
+ .text          0x00001080       0x4e RvalOut.o
+                0x00001080                RvalOut
+ .text          0x000010ce       0xc4 UfAusgabe.o
+                0x000010ce                mVAusgabe
+                0x000010ea                UfAusgabe
+                0x00001116                SerienDiodenAusgabe
+                0x0000113a                DiodeSymbol_withPins
+                0x00001152                DiodeSymbol_ApinCpin
+                0x00001160                DiodeSymbol_ACpin
+                0x00001172                DiodeSymbol_CpinApin
+                0x00001180                DiodeSymbol_CApin
+ .text          0x00001192      0x210 DisplayValue.o
+                0x00001192                DisplayValue
+                0x00001364                DisplayValue16
+                0x0000137a                Display_mV
+                0x0000138e                Display_Hz
+ .text          0x000013a2       0x62 lcd-draw.o
+                0x000013a2                lcd_draw_pin
+                0x000013c6                lcd_draw_trans_pins
+ .text          0x00001404        0x2 swuart.o
+                0x00001404                uart_putc
+ .text          0x00001406       0x4a wait1000ms.o
+                0x00001406                wait5s
+                0x00001408                wait4s
+                0x0000140a                wait3s
+                0x0000140c                wait2s
+                0x0000140e                wait1s
+                0x0000140e                wait1000ms
+                0x00001410                wait500ms
+                0x00001412                wait400ms
+                0x00001414                wait300ms
+                0x00001416                wait200ms
+                0x00001418                wait100ms
+                0x0000141a                wait50ms
+                0x0000141c                wait40ms
+                0x0000141e                wait30ms
+                0x00001420                wait20ms
+                0x00001422                wait10ms
+                0x00001424                wait5ms
+                0x00001428                wait4ms
+                0x0000142a                wait3ms
+                0x0000142c                wait2ms
+                0x0000142e                wait1ms
+                0x00001430                wait500us
+                0x00001432                wait400us
+                0x00001434                wait300us
+                0x00001436                wait200us
+                0x00001438                wait100us
+                0x0000143a                wait50us
+                0x0000143c                wait40us
+                0x0000143e                wait30us
+                0x00001440                wait20us
+                0x00001442                wait10us
+                0x00001444                wait5us
+                0x00001446                wait4us
+                0x00001448                wait3us
+                0x0000144a                wait2us
+                0x0000144c                wait1us
+ .text          0x00001450       0x58 sleep_5ms.o
+                0x00001450                sleep_5ms
+ .text          0x000014a8       0xfc ReadADC.o
+                0x000014a8                W20msReadADC
+                0x000014b0                W10msReadADC
+                0x000014b8                W5msReadADC
+                0x000014c0                ReadADC
+                0x0000157c                abs_diff
+                0x00001588                vcc_diff
+                0x00001592                unsigned_diff
+ .text          0x000015a4      0x1b2 wait_for_key_ms.o
+                0x000015a4                check_rotary
+                0x00001636                wait_for_key_ms
+                0x00001704                wait_for_key_5s_line2
+ .text          0x00001756       0xb0 RefVoltage.o
+                0x00001756                RefVoltage
+ .text          0x00001806       0x48 get_log.o
+                0x00001806                get_log
+ .text          0x0000184e      0x9b4 main.o
+                0x0000184e                __vector_7
+                0x00001850                __vector_21
+                0x00001852                search_vak_diode
+                0x000018b0                init_parts
+                0x000018f6                switch_tester_off
+                0x00001902                ShortedProbes
+                0x00001982                AllProbesShorted
+                0x000019a0                AutoCheck
+                0x00002150                mark_as_uncalibrated
+                0x00002174                GetIr
+ .text          0x00002202        0x0 Battery_check.o
+ .text          0x00002202      0xdfa CheckPins.o
+                0x00002202                expand_FET_quadratic
+                0x00002252                CheckPins
+ .text          0x00002ffc      0x424 GetResistance.o
+                0x00002ffc                GetResistance
+ .text          0x00003420       0x30 ChargePin10ms.o
+                0x00003420                ChargePin10ms
+ .text          0x00003450      0x12c EntladePins.o
+                0x00003450                EntladePins
+ .text          0x0000357c      0x6b2 ReadCapacity.o
+                0x0000357c                Scale_C_with_vcc
+                0x000035fc                ReadCapacity
+                0x00003b9e                __vector_13
+                0x00003bea                __vector_10
+ .text          0x00003c2e       0x7e GetRLmultip.o
+                0x00003c2e                GetRLmultip
+ .text          0x00003cac      0x196 Calibrate_UR.o
+                0x00003cac                Calibrate_UR
+ .text          0x00003e42      0x3bc show_Resis_Cap.o
+                0x00003e42                show_resis
+                0x00003fc0                show_Resis13
+                0x0000402c                show_cap
+                0x00004118                show_Cap13
+ .text          0x000041fe      0x472 ReadInductance.o
+                0x000041fe                ReadInductance
+ .text          0x00004670      0x350 GetESR.o
+                0x00004670                GetESR
+ .text          0x000049c0      0x1b4 GetVloss.o
+                0x000049c0                GetVloss
+ .text          0x00004b74      0x41c GetFrequency.o
+                0x00004b74                GetFrequency
+                0x00004ea4                __vector_16
+                0x00004ef0                __vector_11
+                0x00004f0c                __vector_12
+                0x00004f28                __vector_5
+ .text          0x00004f90      0x74a function_menu.o
+                0x00004f90                message2line
+                0x00005020                show_C_ESR
+                0x000050d0                show_vext
+                0x00005112                make_frequency
+                0x000053fc                do_10bit_PWM
+                0x0000552c                set_big_cap_corr
+                0x000055c2                do_menu
+                0x00005632                function_menu
+ .text          0x000056da       0x38 message_key_released.o
+                0x000056da                message_key_released
+ .text          0x00005712      0x27c ReadBigCap.o
+                0x00005712                ReadBigCap
+ .text          0x0000598e      0x2a2 CheckRotaryEncoder.o
+                0x0000598e                CheckRotaryEncoder
+ .text          0x00005c30        0x0 CalibrationCap.o
+ .text          0x00005c30      0x244 ShowData.o
+                0x00005c30                ShowData
+ .text          0x00005e74        0x0 CheckUJT.o
+ .text          0x00005e74        0x2 EE_check_init.o
+                0x00005e74                EE_check_init
+ .text          0x00005e76        0x0 samplingADC.o
+ .text          0x00005e76      0x3b8 sampling_cap.o
+                0x00005f2a                sampling_cap
+                0x00006138                sampling_cap_calibrate
+ .text          0x0000622e      0x5e0 sampling_lc.o
+                0x0000647a                sampling_lc
+                0x0000677a                sampling_lc_calibrate
+ .text          0x0000680e        0x0 sampling_xtal.o
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+ .text          0x0000680e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+                0x0000680e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x0000680e      0xc18 main.o
+                0x0000680e                main
+ .text.libgcc.mul
+                0x00007426       0x1e c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                0x00007426                __mulsi3
+ .text.libgcc.div
+                0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x00007444        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x00007444       0x18 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                0x00007444                __udivmodqi4
+ .text.libgcc   0x0000745c        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000745c        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000745c        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000745c        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x0000745c        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000745c        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000745c       0x28 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000745c                __udivmodhi4
+ .text.libgcc   0x00007484        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00007484        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00007484        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00007484        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00007484        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00007484        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00007484       0x26 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x00007484                _div
+                0x00007484                __divmodhi4
+ .text.libgcc   0x000074aa        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x000074aa        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x000074aa        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x000074aa        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x000074aa        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x000074aa        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x000074aa       0x44 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x000074aa                __udivmodsi4
+ .text.libgcc   0x000074ee        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x000074ee        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x000074ee        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x000074ee        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x000074ee        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x000074ee        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x000074ee       0x28 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                0x000074ee                __divmodsi4
+ .text.libgcc   0x00007516        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00007516        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00007516        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00007516        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00007516        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00007516        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00007516       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                0x00007516                __negsi2
+ .text.libgcc   0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00007526        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00007526       0x1e c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x00007526                __umulhisi3
+ .text.libgcc.div
+                0x00007544        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00007544        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00007544        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00007544        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00007544        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00007544        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00007544        0xc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+                0x00007544                __usmulhisi3
+                0x00007546                __usmulhisi3_tail
+ .text.libgcc.div
+                0x00007550        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00007550        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00007550        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00007550        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00007550        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00007550        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x00007550       0x14 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                0x00007550                __muluhisi3
+ .text.libgcc.div
+                0x00007564        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00007564        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00007564        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00007564        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00007564        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00007564        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00007564        0xc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                0x00007564                __mulshisi3
+                0x00007568                __mulohisi3
+ .text.libgcc.div
+                0x00007570        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00007570        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00007570        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00007570        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00007570        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00007570        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x00007570       0x4e c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+                0x00007570                __umulsidi3
+                0x00007572                __umulsidi3_helper
+ .text.libgcc.div
+                0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc   0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.prologue
+                0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.builtins
+                0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.fmul
+                0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.fixed
+                0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .text.libgcc.mul
+                0x000075be        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.div
+                0x000075be       0x1a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+                0x000075be                __umoddi3
+                0x000075c2                __udivdi3
+                0x000075c4                __udivdi3_umoddi3
+ .text.libgcc   0x000075d8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x000075d8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x000075d8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x000075d8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x000075d8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x000075d8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.div
+                0x000075d8       0xa2 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+                0x000075d8                __udivmod64
+ .text.libgcc   0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000767a        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000767a       0x38 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x0000767a                __prologue_saves__
+ .text.libgcc.builtins
+                0x000076b2        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x000076b2        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x000076b2        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x000076b2        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x000076b2        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x000076b2        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x000076b2       0x36 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x000076b2                __epilogue_restores__
+ .text.libgcc.builtins
+                0x000076e8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x000076e8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x000076e8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x000076e8       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+                0x000076e8                __muldi3_6
+ .text.libgcc.div
+                0x000076f8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x000076f8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x000076f8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x000076f8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x000076f8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x000076f8        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .text.avr-libc
+                0x000076f8       0x42 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                0x000076f8                __ultoa_ncheck
+                0x000076fa                __ultoa_common
+ .text.avr-libc
+                0x0000773a       0x14 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+                0x0000773a                __utoa
+                0x0000773a                utoa
+ .text.avr-libc
+                0x0000774e       0x32 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                0x0000774e                __utoa_ncheck
+                0x00007750                __utoa_common
+ .text.avr-libc
+                0x00007780       0x20 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00007780                strrev
+ .text.avr-libc
+                0x000077a0       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+                0x000077a0                eeprom_read_byte
+ .text.avr-libc
+                0x000077b0        0xa c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+                0x000077b0                eeprom_read_word
+ .text.avr-libc
+                0x000077ba       0x1c c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+                0x000077ba                eeprom_write_byte
+                0x000077bc                eeprom_write_r18
+ .text.avr-libc
+                0x000077d6        0x6 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+                0x000077d6                eeprom_write_word
+ .text.avr-libc
+                0x000077dc       0x20 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+                0x000077dc                eeprom_read_block
+                0x000077e0                eeprom_read_blraw
+                0x000077fc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000077fc        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x000077fc                _exit
+                0x000077fc                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000077fc        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00007800                _etext = .
+
+.data           0x00800100        0x0 load address 0x00007800
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .data          0x00800100        0x0 lcd_hw_4_bit.o
+ .data          0x00800100        0x0 lcd-routines.o
+ .data          0x00800100        0x0 i2lcd.o
+ .data          0x00800100        0x0 PinLayout.o
+ .data          0x00800100        0x0 RvalOut.o
+ .data          0x00800100        0x0 UfAusgabe.o
+ .data          0x00800100        0x0 DisplayValue.o
+ .data          0x00800100        0x0 lcd-draw.o
+ .data          0x00800100        0x0 swuart.o
+ .data          0x00800100        0x0 wait1000ms.o
+ .data          0x00800100        0x0 sleep_5ms.o
+ .data          0x00800100        0x0 ReadADC.o
+ .data          0x00800100        0x0 wait_for_key_ms.o
+ .data          0x00800100        0x0 RefVoltage.o
+ .data          0x00800100        0x0 get_log.o
+ .data          0x00800100        0x0 main.o
+ .data          0x00800100        0x0 Battery_check.o
+ .data          0x00800100        0x0 CheckPins.o
+ .data          0x00800100        0x0 GetResistance.o
+ .data          0x00800100        0x0 ChargePin10ms.o
+ .data          0x00800100        0x0 EntladePins.o
+ .data          0x00800100        0x0 ReadCapacity.o
+ .data          0x00800100        0x0 GetRLmultip.o
+ .data          0x00800100        0x0 Calibrate_UR.o
+ .data          0x00800100        0x0 show_Resis_Cap.o
+ .data          0x00800100        0x0 ReadInductance.o
+ .data          0x00800100        0x0 GetESR.o
+ .data          0x00800100        0x0 GetVloss.o
+ .data          0x00800100        0x0 GetFrequency.o
+ .data          0x00800100        0x0 function_menu.o
+ .data          0x00800100        0x0 message_key_released.o
+ .data          0x00800100        0x0 ReadBigCap.o
+ .data          0x00800100        0x0 CheckRotaryEncoder.o
+ .data          0x00800100        0x0 CalibrationCap.o
+ .data          0x00800100        0x0 ShowData.o
+ .data          0x00800100        0x0 CheckUJT.o
+ .data          0x00800100        0x0 EE_check_init.o
+ .data          0x00800100        0x0 samplingADC.o
+ .data          0x00800100        0x0 sampling_cap.o
+ .data          0x00800100        0x0 sampling_lc.o
+ .data          0x00800100        0x0 sampling_xtal.o
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+ .data          0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800100                . = ALIGN (0x2)
+                0x00800100                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00800100      0x4c6
+                0x00800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00800100        0x0 lcd_hw_4_bit.o
+ .bss           0x00800100        0x0 lcd-routines.o
+ .bss           0x00800100        0x0 i2lcd.o
+ .bss           0x00800100        0x0 PinLayout.o
+ .bss           0x00800100        0x0 RvalOut.o
+ .bss           0x00800100        0x0 UfAusgabe.o
+ .bss           0x00800100        0x0 DisplayValue.o
+ .bss           0x00800100        0x0 lcd-draw.o
+ .bss           0x00800100        0x0 swuart.o
+ .bss           0x00800100        0x0 wait1000ms.o
+ .bss           0x00800100        0x0 sleep_5ms.o
+ .bss           0x00800100        0x0 ReadADC.o
+ .bss           0x00800100        0x0 wait_for_key_ms.o
+ .bss           0x00800100        0x0 RefVoltage.o
+ .bss           0x00800100        0x0 get_log.o
+ .bss           0x00800100        0x0 main.o
+ .bss           0x00800100        0x0 Battery_check.o
+ .bss           0x00800100        0x0 CheckPins.o
+ .bss           0x00800100        0x0 GetResistance.o
+ .bss           0x00800100        0x0 ChargePin10ms.o
+ .bss           0x00800100        0x0 EntladePins.o
+ .bss           0x00800100        0x0 ReadCapacity.o
+ .bss           0x00800100        0x0 GetRLmultip.o
+ .bss           0x00800100        0x0 Calibrate_UR.o
+ .bss           0x00800100        0x0 show_Resis_Cap.o
+ .bss           0x00800100        0x0 ReadInductance.o
+ .bss           0x00800100        0x0 GetESR.o
+ .bss           0x00800100        0x0 GetVloss.o
+ .bss           0x00800100        0x0 GetFrequency.o
+ .bss           0x00800100        0x0 function_menu.o
+ .bss           0x00800100        0x0 message_key_released.o
+ .bss           0x00800100        0x0 ReadBigCap.o
+ .bss           0x00800100        0x0 CheckRotaryEncoder.o
+ .bss           0x00800100        0x0 CalibrationCap.o
+ .bss           0x00800100        0x0 ShowData.o
+ .bss           0x00800100        0x0 CheckUJT.o
+ .bss           0x00800100        0x0 EE_check_init.o
+ .bss           0x00800100        0x0 samplingADC.o
+ .bss           0x00800100        0x0 sampling_cap.o
+ .bss           0x00800100        0x0 sampling_lc.o
+ .bss           0x00800100        0x0 sampling_xtal.o
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulsidi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmod64.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muldi3_6.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_byte.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_word.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_byte.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eewr_word.o)
+ .bss           0x00800100        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a(eerd_block.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800100       0x11 lcd-routines.o
+                0x00800100                icon_yy
+                0x00800101                last_text_column
+                0x00800102                inductor_lpre
+                0x00800103                last_text_line
+                0x00800104                _page
+                0x00800105                cell_mv
+                0x0080010b                inductor_lx
+                0x0080010f                _xpos
+                0x00800110                icon_xx
+ COMMON         0x00800111      0x4a9 main.o
+                0x00800111                diode_sequence
+                0x00800112                ext_freq
+                0x00800116                display_time
+                0x00800118                rotary
+                0x0080011f                resis680mi
+                0x00800121                ref_mv_offs
+                0x00800123                NumOfDiodes
+                0x00800124                PartMode
+                0x00800125                PartFound
+                0x00800126                resis680pl
+                0x00800128                tmpval
+                0x00800129                adc_vcc_reference
+                0x0080012b                mess_count
+                0x0080012c                outval
+                0x00800136                ADCconfig
+                0x0080013c                pin_rpl
+                0x0080013e                ref_mv
+                0x00800140                DC_Pwr_mode
+                0x00800141                lcd_bit_mem
+                0x00800541                tmpval2
+                0x00800542                UnCalibrated
+                0x00800543                pin_rmi
+                0x00800545                WithReference
+                0x00800546                _lcd_column
+                0x00800547                _trans
+                0x00800549                last_line_used
+                0x0080054a                ntrans
+                0x0080055a                empty_count
+                0x0080055b                pin_combination
+                0x0080055c                ovcnt16
+                0x0080055e                ResistorChecked
+                0x00800561                ResistorList
+                0x00800564                ptrans
+                0x00800574                pinchange_max
+                0x00800576                pinchange_count
+                0x00800578                adc_internal_reference
+                0x0080057a                ResistorsFound
+                0x0080057b                rotary_switch_present
+                0x0080057c                unfinished
+                0x0080057d                RHmultip
+                0x0080057f                cap
+                0x00800593                load_diff
+                0x00800595                diodes
+                0x008005ad                lcd_text_line
+                0x008005ae                ResistorVal
+ COMMON         0x008005ba        0xc sampling_lc.o
+                0x008005ba                lc_fx
+                0x008005be                lc_cpartmp
+                0x008005c0                lc_qx
+                0x008005c2                lc_lx
+                0x008005c6                PROVIDE (__bss_end, .)
+                0x00007800                __data_load_start = LOADADDR (.data)
+                0x00007800                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008005c6        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008005c6                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000      0x37e
+ *(.eeprom*)
+ .eeprom        0x00810000      0x36c main.o
+                0x00810006                cap_for_l_meas_str
+                0x00810016                REF_R_str
+                0x0081001d                REF_C_str
+                0x00810024                MinCap_str
+                0x0081002c                PrefixTab
+                0x00810034                CyrillicMuIcon
+                0x0081003c                CyrillicOmegaIcon
+                0x00810044                ResIcon3
+                0x0081004c                ResIcon2
+                0x00810054                ResIcon1
+                0x0081005c                DiodeIcon2
+                0x00810064                DiodeIcon1
+                0x0081006c                CapIcon
+                0x00810074                RDS_str
+                0x00810079                CMETER_13_str
+                0x0081007d                CAP_13_str
+                0x00810084                RESIS_13_str
+                0x0081008f                C_ESR_str
+                0x0081009b                FatTP2_str
+                0x008100a1                T50HZ
+                0x008100a7                C0samp_str
+                0x008100af                C0_str
+                0x008100b3                RILO_str
+                0x008100ba                RIHI_str
+                0x008100c1                R0_str
+                0x008100c5                RHRL_str
+                0x008100cb                RHRH_str
+                0x008100d9                RLRL_str
+                0x008100e7                RH1H_str
+                0x008100eb                RH1L_str
+                0x008100ef                RHfakt_str
+                0x008100f4                URef_str
+                0x008100f9                ICEs_str
+                0x008100ff                ICE0_str
+                0x00810105                VERSION_str
+                0x00810113                Inductor_str
+                0x00810118                Resistor_str
+                0x0081011d                Dioden
+                0x00810122                zQ_str
+                0x00810127                iF_str
+                0x0081012c                AT05volt
+                0x00810133                KatAn_str
+                0x00810137                AnKat_str
+                0x0081013b                Vext_str
+                0x00810141                Ir_str
+                0x00810145                Lis_str
+                0x00810148                VLOSS_str
+                0x00810150                ESR_str
+                0x00810156                VCC_str
+                0x0081015b                Cell_str
+                0x00810161                CapZeich
+                0x00810165                Vgs_str
+                0x0081016a                vt_str
+                0x0081016f                Uf_str
+                0x00810173                Ube_str
+                0x00810178                N123_str
+                0x0081017e                Pin_str
+                0x00810183                PNP_str
+                0x0081018b                NPN_str
+                0x00810193                Cap_str
+                0x00810196                GateCap_str
+                0x0081019a                hfe_str
+                0x0081019f                igbt_str
+                0x008101a5                jfet_str
+                0x008101aa                mosfet_str
+                0x008101af                DC_Pwr_Mode_str
+                0x008101bb                OK_str
+                0x008101be                Bat_str
+                0x008101c4                SHORT_PROBES_str
+                0x008101d1                FULLCHECK_str
+                0x008101db                TURN_str
+                0x008101e3                SetCapCorr_str
+                0x008101f1                RotaryEncoder_str
+                0x00810202                PWM_10bit_str
+                0x0081020d                F_GEN_str
+                0x00810219                OFF_str
+                0x00810220                SHOW_str
+                0x0081022b                VOLTAGE_str
+                0x00810234                FREQ_str
+                0x00810242                TESTER_str
+                0x0081024d                SELECTION_str
+                0x00810253                ATE
+                0x00810260                RELPROBE
+                0x0081026e                SELFTEST
+                0x0081027d                TestTimedOut
+                0x0081028c                Detected
+                0x00810295                TestFailed1
+                0x008102a3                Unknown
+                0x008102ad                Thyristor
+                0x008102b6                Triac
+                0x008102bc                Bauteil
+                0x008102be                TestFailed2
+                0x008102cd                BatEmpty
+                0x008102d6                BatWeak
+                0x008102dc                TestRunning
+                0x008102e7                RLtab
+                0x00810341                EE_ESR_ZEROtab
+                0x00810345                big_cap_corr
+                0x00810346                c_zero_tab2_hi
+                0x00810354                c_zero_tab2_lo
+                0x00810362                c_zero_tab
+                0x00810369                ref_offset
+                0x0081036b                RefDiff
+ .eeprom        0x0081036c       0x10 show_Resis_Cap.o
+                0x0081036c                RL_METER_str
+ .eeprom        0x0081037c        0x2 sampling_lc.o
+                0x0081037c                lc_cpar_ee
+                0x0081037e                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 lcd-routines.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 RvalOut.o
+ .comment       0x00000011       0x12 DisplayValue.o
+ .comment       0x00000011       0x12 lcd-draw.o
+ .comment       0x00000011       0x12 wait_for_key_ms.o
+ .comment       0x00000011       0x12 main.o
+ .comment       0x00000011       0x12 Battery_check.o
+ .comment       0x00000011       0x12 CheckPins.o
+ .comment       0x00000011       0x12 GetResistance.o
+ .comment       0x00000011       0x12 ChargePin10ms.o
+ .comment       0x00000011       0x12 EntladePins.o
+ .comment       0x00000011       0x12 ReadCapacity.o
+ .comment       0x00000011       0x12 Calibrate_UR.o
+ .comment       0x00000011       0x12 show_Resis_Cap.o
+ .comment       0x00000011       0x12 ReadInductance.o
+ .comment       0x00000011       0x12 GetVloss.o
+ .comment       0x00000011       0x12 GetFrequency.o
+ .comment       0x00000011       0x12 function_menu.o
+ .comment       0x00000011       0x12 message_key_released.o
+ .comment       0x00000011       0x12 ReadBigCap.o
+ .comment       0x00000011       0x12 CheckRotaryEncoder.o
+ .comment       0x00000011       0x12 CalibrationCap.o
+ .comment       0x00000011       0x12 ShowData.o
+ .comment       0x00000011       0x12 CheckUJT.o
+ .comment       0x00000011       0x12 EE_check_init.o
+ .comment       0x00000011       0x12 sampling_cap.o
+ .comment       0x00000011       0x12 sampling_lc.o
+ .comment       0x00000011       0x12 sampling_xtal.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x4f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 lcd_hw_4_bit.o
+ .debug_aranges
+                0x00000020       0x20 lcd-routines.o
+ .debug_aranges
+                0x00000040       0x20 i2lcd.o
+ .debug_aranges
+                0x00000060       0x20 PinLayout.o
+ .debug_aranges
+                0x00000080       0x20 RvalOut.o
+ .debug_aranges
+                0x000000a0       0x20 UfAusgabe.o
+ .debug_aranges
+                0x000000c0       0x20 DisplayValue.o
+ .debug_aranges
+                0x000000e0       0x20 lcd-draw.o
+ .debug_aranges
+                0x00000100       0x20 swuart.o
+ .debug_aranges
+                0x00000120       0x20 wait1000ms.o
+ .debug_aranges
+                0x00000140       0x20 sleep_5ms.o
+ .debug_aranges
+                0x00000160       0x20 ReadADC.o
+ .debug_aranges
+                0x00000180       0x20 wait_for_key_ms.o
+ .debug_aranges
+                0x000001a0       0x20 RefVoltage.o
+ .debug_aranges
+                0x000001c0       0x20 get_log.o
+ .debug_aranges
+                0x000001e0       0x28 main.o
+ .debug_aranges
+                0x00000208       0x18 Battery_check.o
+ .debug_aranges
+                0x00000220       0x20 CheckPins.o
+ .debug_aranges
+                0x00000240       0x20 GetResistance.o
+ .debug_aranges
+                0x00000260       0x20 ChargePin10ms.o
+ .debug_aranges
+                0x00000280       0x20 EntladePins.o
+ .debug_aranges
+                0x000002a0       0x20 ReadCapacity.o
+ .debug_aranges
+                0x000002c0       0x20 GetRLmultip.o
+ .debug_aranges
+                0x000002e0       0x20 Calibrate_UR.o
+ .debug_aranges
+                0x00000300       0x20 show_Resis_Cap.o
+ .debug_aranges
+                0x00000320       0x20 ReadInductance.o
+ .debug_aranges
+                0x00000340       0x20 GetESR.o
+ .debug_aranges
+                0x00000360       0x20 GetVloss.o
+ .debug_aranges
+                0x00000380       0x20 GetFrequency.o
+ .debug_aranges
+                0x000003a0       0x20 function_menu.o
+ .debug_aranges
+                0x000003c0       0x20 message_key_released.o
+ .debug_aranges
+                0x000003e0       0x20 ReadBigCap.o
+ .debug_aranges
+                0x00000400       0x20 CheckRotaryEncoder.o
+ .debug_aranges
+                0x00000420       0x18 CalibrationCap.o
+ .debug_aranges
+                0x00000438       0x20 ShowData.o
+ .debug_aranges
+                0x00000458       0x18 CheckUJT.o
+ .debug_aranges
+                0x00000470       0x20 EE_check_init.o
+ .debug_aranges
+                0x00000490       0x20 samplingADC.o
+ .debug_aranges
+                0x000004b0       0x20 sampling_cap.o
+ .debug_aranges
+                0x000004d0       0x20 sampling_lc.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xd156
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_info    0x000005f4       0x87 lcd_hw_4_bit.o
+ .debug_info    0x0000067b     0x112b lcd-routines.o
+ .debug_info    0x000017a6       0x80 i2lcd.o
+ .debug_info    0x00001826       0x84 PinLayout.o
+ .debug_info    0x000018aa      0x243 RvalOut.o
+ .debug_info    0x00001aed       0x84 UfAusgabe.o
+ .debug_info    0x00001b71      0x4ea DisplayValue.o
+ .debug_info    0x0000205b      0x32c lcd-draw.o
+ .debug_info    0x00002387       0x81 swuart.o
+ .debug_info    0x00002408       0x85 wait1000ms.o
+ .debug_info    0x0000248d       0x84 sleep_5ms.o
+ .debug_info    0x00002511       0x82 ReadADC.o
+ .debug_info    0x00002593      0x37c wait_for_key_ms.o
+ .debug_info    0x0000290f       0x85 RefVoltage.o
+ .debug_info    0x00002994       0x82 get_log.o
+ .debug_info    0x00002a16     0x397b main.o
+ .debug_info    0x00006391       0xae Battery_check.o
+ .debug_info    0x0000643f     0x12a7 CheckPins.o
+ .debug_info    0x000076e6      0x687 GetResistance.o
+ .debug_info    0x00007d6d      0x119 ChargePin10ms.o
+ .debug_info    0x00007e86      0x1f2 EntladePins.o
+ .debug_info    0x00008078      0x632 ReadCapacity.o
+ .debug_info    0x000086aa       0x86 GetRLmultip.o
+ .debug_info    0x00008730      0x316 Calibrate_UR.o
+ .debug_info    0x00008a46      0xb20 show_Resis_Cap.o
+ .debug_info    0x00009566      0x4c7 ReadInductance.o
+ .debug_info    0x00009a2d       0x81 GetESR.o
+ .debug_info    0x00009aae      0x35d GetVloss.o
+ .debug_info    0x00009e0b      0x47a GetFrequency.o
+ .debug_info    0x0000a285      0xc51 function_menu.o
+ .debug_info    0x0000aed6      0x16f message_key_released.o
+ .debug_info    0x0000b045      0x3f1 ReadBigCap.o
+ .debug_info    0x0000b436      0x3bc CheckRotaryEncoder.o
+ .debug_info    0x0000b7f2       0xae CalibrationCap.o
+ .debug_info    0x0000b8a0      0x793 ShowData.o
+ .debug_info    0x0000c033       0xae CheckUJT.o
+ .debug_info    0x0000c0e1       0xcc EE_check_init.o
+ .debug_info    0x0000c1ad       0x86 samplingADC.o
+ .debug_info    0x0000c233      0x6b5 sampling_cap.o
+ .debug_info    0x0000c8e8      0x86e sampling_lc.o
+
+.debug_abbrev   0x00000000     0x2f53
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2       0x14 lcd_hw_4_bit.o
+ .debug_abbrev  0x000005b6      0x2b6 lcd-routines.o
+ .debug_abbrev  0x0000086c       0x14 i2lcd.o
+ .debug_abbrev  0x00000880       0x14 PinLayout.o
+ .debug_abbrev  0x00000894      0x12e RvalOut.o
+ .debug_abbrev  0x000009c2       0x14 UfAusgabe.o
+ .debug_abbrev  0x000009d6      0x1e7 DisplayValue.o
+ .debug_abbrev  0x00000bbd      0x162 lcd-draw.o
+ .debug_abbrev  0x00000d1f       0x14 swuart.o
+ .debug_abbrev  0x00000d33       0x14 wait1000ms.o
+ .debug_abbrev  0x00000d47       0x14 sleep_5ms.o
+ .debug_abbrev  0x00000d5b       0x14 ReadADC.o
+ .debug_abbrev  0x00000d6f      0x19a wait_for_key_ms.o
+ .debug_abbrev  0x00000f09       0x14 RefVoltage.o
+ .debug_abbrev  0x00000f1d       0x14 get_log.o
+ .debug_abbrev  0x00000f31      0x392 main.o
+ .debug_abbrev  0x000012c3       0x56 Battery_check.o
+ .debug_abbrev  0x00001319      0x1eb CheckPins.o
+ .debug_abbrev  0x00001504      0x17d GetResistance.o
+ .debug_abbrev  0x00001681       0xb2 ChargePin10ms.o
+ .debug_abbrev  0x00001733       0xe5 EntladePins.o
+ .debug_abbrev  0x00001818      0x1fd ReadCapacity.o
+ .debug_abbrev  0x00001a15       0x14 GetRLmultip.o
+ .debug_abbrev  0x00001a29      0x132 Calibrate_UR.o
+ .debug_abbrev  0x00001b5b      0x211 show_Resis_Cap.o
+ .debug_abbrev  0x00001d6c      0x19b ReadInductance.o
+ .debug_abbrev  0x00001f07       0x14 GetESR.o
+ .debug_abbrev  0x00001f1b      0x16a GetVloss.o
+ .debug_abbrev  0x00002085      0x1b3 GetFrequency.o
+ .debug_abbrev  0x00002238      0x28d function_menu.o
+ .debug_abbrev  0x000024c5       0xf1 message_key_released.o
+ .debug_abbrev  0x000025b6      0x1af ReadBigCap.o
+ .debug_abbrev  0x00002765      0x136 CheckRotaryEncoder.o
+ .debug_abbrev  0x0000289b       0x56 CalibrationCap.o
+ .debug_abbrev  0x000028f1      0x17f ShowData.o
+ .debug_abbrev  0x00002a70       0x56 CheckUJT.o
+ .debug_abbrev  0x00002ac6       0x72 EE_check_init.o
+ .debug_abbrev  0x00002b38       0x14 samplingADC.o
+ .debug_abbrev  0x00002b4c      0x1e7 sampling_cap.o
+ .debug_abbrev  0x00002d33      0x220 sampling_lc.o
+
+.debug_line     0x00000000     0x8471
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_line    0x0000001a      0x1ae lcd_hw_4_bit.o
+ .debug_line    0x000001c8      0x6a2 lcd-routines.o
+ .debug_line    0x0000086a       0xbc i2lcd.o
+ .debug_line    0x00000926      0x254 PinLayout.o
+ .debug_line    0x00000b7a      0x108 RvalOut.o
+ .debug_line    0x00000c82      0x264 UfAusgabe.o
+ .debug_line    0x00000ee6      0x2c4 DisplayValue.o
+ .debug_line    0x000011aa       0xeb lcd-draw.o
+ .debug_line    0x00001295       0x3a swuart.o
+ .debug_line    0x000012cf      0x116 wait1000ms.o
+ .debug_line    0x000013e5      0x120 sleep_5ms.o
+ .debug_line    0x00001505      0x26f ReadADC.o
+ .debug_line    0x00001774      0x30b wait_for_key_ms.o
+ .debug_line    0x00001a7f      0x1db RefVoltage.o
+ .debug_line    0x00001c5a       0xfa get_log.o
+ .debug_line    0x00001d54     0x1529 main.o
+ .debug_line    0x0000327d       0x8b Battery_check.o
+ .debug_line    0x00003308      0xb64 CheckPins.o
+ .debug_line    0x00003e6c      0x31f GetResistance.o
+ .debug_line    0x0000418b       0xf9 ChargePin10ms.o
+ .debug_line    0x00004284      0x222 EntladePins.o
+ .debug_line    0x000044a6      0x561 ReadCapacity.o
+ .debug_line    0x00004a07      0x188 GetRLmultip.o
+ .debug_line    0x00004b8f      0x201 Calibrate_UR.o
+ .debug_line    0x00004d90      0x3fb show_Resis_Cap.o
+ .debug_line    0x0000518b      0x3fe ReadInductance.o
+ .debug_line    0x00005589      0x8aa GetESR.o
+ .debug_line    0x00005e33      0x244 GetVloss.o
+ .debug_line    0x00006077      0x3a9 GetFrequency.o
+ .debug_line    0x00006420      0x88b function_menu.o
+ .debug_line    0x00006cab      0x10f message_key_released.o
+ .debug_line    0x00006dba      0x2c2 ReadBigCap.o
+ .debug_line    0x0000707c      0x3f5 CheckRotaryEncoder.o
+ .debug_line    0x00007471       0x8b CalibrationCap.o
+ .debug_line    0x000074fc      0x29a ShowData.o
+ .debug_line    0x00007796       0x8b CheckUJT.o
+ .debug_line    0x00007821       0xaf EE_check_init.o
+ .debug_line    0x000078d0      0x309 samplingADC.o
+ .debug_line    0x00007bd9      0x32d sampling_cap.o
+ .debug_line    0x00007f06      0x56b sampling_lc.o
+ .debug_line    0x00008471        0x0 sampling_xtal.o
+
+.debug_frame    0x00000000      0xd8c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2ec lcd-routines.o
+ .debug_frame   0x000002ec       0x2c RvalOut.o
+ .debug_frame   0x00000318       0x94 DisplayValue.o
+ .debug_frame   0x000003ac       0x40 lcd-draw.o
+ .debug_frame   0x000003ec       0x64 wait_for_key_ms.o
+ .debug_frame   0x00000450      0x150 main.o
+ .debug_frame   0x000005a0       0x68 CheckPins.o
+ .debug_frame   0x00000608       0x4c GetResistance.o
+ .debug_frame   0x00000654       0x2c ChargePin10ms.o
+ .debug_frame   0x00000680       0x54 EntladePins.o
+ .debug_frame   0x000006d4       0xb4 ReadCapacity.o
+ .debug_frame   0x00000788       0x40 Calibrate_UR.o
+ .debug_frame   0x000007c8       0x94 show_Resis_Cap.o
+ .debug_frame   0x0000085c       0x4c ReadInductance.o
+ .debug_frame   0x000008a8       0x5c GetVloss.o
+ .debug_frame   0x00000904       0xe8 GetFrequency.o
+ .debug_frame   0x000009ec      0x10c function_menu.o
+ .debug_frame   0x00000af8       0x30 message_key_released.o
+ .debug_frame   0x00000b28       0x40 ReadBigCap.o
+ .debug_frame   0x00000b68       0x3c CheckRotaryEncoder.o
+ .debug_frame   0x00000ba4       0x48 ShowData.o
+ .debug_frame   0x00000bec       0x24 EE_check_init.o
+ .debug_frame   0x00000c10       0xdc sampling_cap.o
+ .debug_frame   0x00000cec       0xa0 sampling_lc.o
+
+.debug_str      0x00000000     0x1be7
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x518 lcd-routines.o
+                                0x588 (size before relaxing)
+ .debug_str     0x00000720       0x38 RvalOut.o
+                                0x1f3 (size before relaxing)
+ .debug_str     0x00000758       0xab DisplayValue.o
+                                0x298 (size before relaxing)
+ .debug_str     0x00000803       0x6e lcd-draw.o
+                                0x266 (size before relaxing)
+ .debug_str     0x00000871       0xb3 wait_for_key_ms.o
+                                0x2d7 (size before relaxing)
+ .debug_str     0x00000924      0xa2c main.o
+                                0xf30 (size before relaxing)
+ .debug_str     0x00001350       0x13 Battery_check.o
+                                0x197 (size before relaxing)
+ .debug_str     0x00001363      0x16c CheckPins.o
+                                0x40a (size before relaxing)
+ .debug_str     0x000014cf       0x33 GetResistance.o
+                                0x386 (size before relaxing)
+ .debug_str     0x00001502       0x2f ChargePin10ms.o
+                                0x1d3 (size before relaxing)
+ .debug_str     0x00001531       0x29 EntladePins.o
+                                0x1fa (size before relaxing)
+ .debug_str     0x0000155a       0xcd ReadCapacity.o
+                                0x40b (size before relaxing)
+ .debug_str     0x00001627       0x30 Calibrate_UR.o
+                                0x28f (size before relaxing)
+ .debug_str     0x00001657       0xcf show_Resis_Cap.o
+                                0x4ca (size before relaxing)
+ .debug_str     0x00001726       0x92 ReadInductance.o
+                                0x33b (size before relaxing)
+ .debug_str     0x000017b8       0x20 GetVloss.o
+                                0x281 (size before relaxing)
+ .debug_str     0x000017d8       0x76 GetFrequency.o
+                                0x2f4 (size before relaxing)
+ .debug_str     0x0000184e      0x133 function_menu.o
+                                0x58d (size before relaxing)
+ .debug_str     0x00001981       0x27 message_key_released.o
+                                0x1f5 (size before relaxing)
+ .debug_str     0x000019a8       0x21 ReadBigCap.o
+                                0x2e2 (size before relaxing)
+ .debug_str     0x000019c9       0x80 CheckRotaryEncoder.o
+                                0x2c7 (size before relaxing)
+ .debug_str     0x00001a49       0x14 CalibrationCap.o
+                                0x198 (size before relaxing)
+ .debug_str     0x00001a5d       0x32 ShowData.o
+                                0x375 (size before relaxing)
+ .debug_str     0x00001a8f        0xe CheckUJT.o
+                                0x192 (size before relaxing)
+ .debug_str     0x00001a9d       0x21 EE_check_init.o
+                                0x1a5 (size before relaxing)
+ .debug_str     0x00001abe       0x56 sampling_cap.o
+                                0x355 (size before relaxing)
+ .debug_str     0x00001b14       0xc0 sampling_lc.o
+                                0x3d9 (size before relaxing)
+ .debug_str     0x00001bd4       0x13 sampling_xtal.o
+                                 0xfe (size before relaxing)
+
+.debug_loc      0x00000000     0x70a3
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xbc9 lcd-routines.o
+ .debug_loc     0x00000bc9       0x7f RvalOut.o
+ .debug_loc     0x00000c48      0x4c8 DisplayValue.o
+ .debug_loc     0x00001110      0x11a lcd-draw.o
+ .debug_loc     0x0000122a      0x1d7 wait_for_key_ms.o
+ .debug_loc     0x00001401      0xac3 main.o
+ .debug_loc     0x00001ec4     0x1a40 CheckPins.o
+ .debug_loc     0x00003904      0x92e GetResistance.o
+ .debug_loc     0x00004232       0x72 ChargePin10ms.o
+ .debug_loc     0x000042a4      0x207 EntladePins.o
+ .debug_loc     0x000044ab      0x38d ReadCapacity.o
+ .debug_loc     0x00004838       0x72 Calibrate_UR.o
+ .debug_loc     0x000048aa      0x21b show_Resis_Cap.o
+ .debug_loc     0x00004ac5      0x3e1 ReadInductance.o
+ .debug_loc     0x00004ea6      0x2b7 GetVloss.o
+ .debug_loc     0x0000515d      0x2db GetFrequency.o
+ .debug_loc     0x00005438      0x75c function_menu.o
+ .debug_loc     0x00005b94       0x8b message_key_released.o
+ .debug_loc     0x00005c1f       0xd4 ReadBigCap.o
+ .debug_loc     0x00005cf3      0x382 CheckRotaryEncoder.o
+ .debug_loc     0x00006075      0x101 ShowData.o
+ .debug_loc     0x00006176      0x57e sampling_cap.o
+ .debug_loc     0x000066f4      0x9af sampling_lc.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0xc8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x48 lcd-routines.o
+ .debug_ranges  0x00000048       0x18 wait_for_key_ms.o
+ .debug_ranges  0x00000060       0x40 main.o
+ .debug_ranges  0x000000a0       0x28 sampling_lc.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(TransistorTester.elf elf32-avr)
+LOAD linker stubs
